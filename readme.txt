@@ -1,0 +1,1 @@
+This example is using to validate form data that is created in twitter bootstrap.
